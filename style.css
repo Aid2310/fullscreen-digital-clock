@@ -1,0 +1,25 @@
+#txt {
+    height: 120px;
+    width: 430px;
+    color: red;
+    margin: auto;
+    position: fixed;
+    inset: 0px;
+    font-size: 100px;
+    font-family: 'alarm clock', sans-serif;
+    background-color: black;
+    border-radius: 15px;
+    border: 7px solid;
+    border-color: rgb(54, 54, 54);
+}
+
+body {
+    background-color: rgb(255, 210, 47);
+}
+
+.btn {
+    height: 30px;
+    width: 30px;
+    background-color: rgb(255, 210, 47);
+    border: none;
+}
